@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/codestore/ncibi/projects/!svn/ver/652/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/status
+END
+StatusEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/projects/!svn/ver/652/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/status/StatusEncoder.java
+END
+StatusArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/codestore/ncibi/projects/!svn/ver/147/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/status/StatusArguments.java
+END
+StatusResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/projects/!svn/ver/562/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/status/StatusResource.java
+END
+StatusResource2.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/codestore/ncibi/projects/!svn/ver/652/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/status/StatusResource2.java
+END

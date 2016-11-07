@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/projects/!svn/ver/652/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m
+END
+Gene2MeSHConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/codestore/ncibi/projects/!svn/ver/356/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m/Gene2MeSHConverter.java
+END
+Gene2MeSHResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/projects/!svn/ver/559/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m/Gene2MeSHResource.java
+END
+NcibiXStreamGene2MeSHEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/codestore/ncibi/projects/!svn/ver/356/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m/NcibiXStreamGene2MeSHEncoder.java
+END
+Gene2MeSHResourceArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/codestore/ncibi/projects/!svn/ver/502/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m/Gene2MeSHResourceArgument.java
+END
+Gene2MeSHResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/codestore/ncibi/projects/!svn/ver/362/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m/Gene2MeSHResourceModule.java
+END
+Gene2MeshEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/projects/!svn/ver/652/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/g2m/Gene2MeshEncoder.java
+END

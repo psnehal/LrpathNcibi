@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/codestore/ncibi/projects/!svn/ver/890/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server
+END
+StatusResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/projects/!svn/ver/495/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/StatusResourceModule.java
+END
+CompoundResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/projects/!svn/ver/382/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/CompoundResourceModule.java
+END
+ReactionResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/projects/!svn/ver/382/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/ReactionResourceModule.java
+END
+MxTerminatorResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/projects/!svn/ver/468/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/MxTerminatorResourceModule.java
+END
+NCIBIWebServiceApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/projects/!svn/ver/809/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/NCIBIWebServiceApplication.java
+END
+LRPathResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/projects/!svn/ver/680/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/LRPathResourceModule.java
+END
+LRThinkResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/890/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/LRThinkResourceModule.java
+END
+GseaThinkResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/projects/!svn/ver/890/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/GseaThinkResourceModule.java
+END
+StanfordParserResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/projects/!svn/ver/468/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/server/StanfordParserResourceModule.java
+END

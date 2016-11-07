@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/projects/!svn/ver/587/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/cellularcomponent
+END
+GeneAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/codestore/ncibi/projects/!svn/ver/587/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/cellularcomponent/GeneAttribute.java
+END
+GenesArg.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/projects/!svn/ver/569/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/cellularcomponent/GenesArg.java
+END
+GeneCellularComponentResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/codestore/ncibi/projects/!svn/ver/587/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/cellularcomponent/GeneCellularComponentResource.java
+END

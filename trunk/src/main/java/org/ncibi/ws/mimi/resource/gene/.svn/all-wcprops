@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/projects/!svn/ver/555/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/mimi/resource/gene
+END
+GeneQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/553/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/mimi/resource/gene/GeneQuery.java
+END
+GeneResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/codestore/ncibi/projects/!svn/ver/555/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/mimi/resource/gene/GeneResource.java
+END
+GeneResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/projects/!svn/ver/553/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/mimi/resource/gene/GeneResult.java
+END

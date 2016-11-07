@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/projects/!svn/ver/1263/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource
+END
+EnzymeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/EnzymeConverter.java
+END
+DenormInteractionAttributeConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/DenormInteractionAttributeConverter.java
+END
+GeneInteractionListConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/GeneInteractionListConverter.java
+END
+MiMIResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/MiMIResource.java
+END
+NCIBIWebService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/NCIBIWebService.java
+END
+GenePathwayConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/GenePathwayConverter.java
+END
+GeneResultConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/codestore/ncibi/projects/!svn/ver/557/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/GeneResultConverter.java
+END
+AbstractSimpleLRPathResponseServerResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/codestore/ncibi/projects/!svn/ver/697/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/AbstractSimpleLRPathResponseServerResource.java
+END
+DenormGeneGeneInteractionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/DenormGeneGeneInteractionConverter.java
+END
+CompoundConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/CompoundConverter.java
+END
+DenormInteractionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/DenormInteractionConverter.java
+END
+MetabReactionWithGenesConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/MetabReactionWithGenesConverter.java
+END
+DocumentBriefSimpleConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/DocumentBriefSimpleConverter.java
+END
+NCIBIWebServiceConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/NCIBIWebServiceConverter.java
+END
+ClassifiedInteractionConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/ClassifiedInteractionConverter.java
+END

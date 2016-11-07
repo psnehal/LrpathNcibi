@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/projects/!svn/ver/668/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/nlp
+END
+AbstractNlpResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/codestore/ncibi/projects/!svn/ver/668/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/nlp/AbstractNlpResource.java
+END
+SplitterArguments.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/codestore/ncibi/projects/!svn/ver/461/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/nlp/SplitterArguments.java
+END

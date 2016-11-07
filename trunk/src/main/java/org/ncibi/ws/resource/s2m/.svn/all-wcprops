@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/projects/!svn/ver/561/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/s2m
+END
+NcibiXStreamSubstance2MeSHEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/codestore/ncibi/projects/!svn/ver/387/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/s2m/NcibiXStreamSubstance2MeSHEncoder.java
+END
+Substance2MeSHResourceArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/codestore/ncibi/projects/!svn/ver/503/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/s2m/Substance2MeSHResourceArgument.java
+END
+Substance2MeSHResourceModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/codestore/ncibi/projects/!svn/ver/356/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/s2m/Substance2MeSHResourceModule.java
+END
+Substance2MeSHConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/codestore/ncibi/projects/!svn/ver/388/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/s2m/Substance2MeSHConverter.java
+END
+Substance2MeSHResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/codestore/ncibi/projects/!svn/ver/561/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/s2m/Substance2MeSHResource.java
+END

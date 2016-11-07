@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/projects/!svn/ver/550/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/model/g2m
+END
+Gene2MeSHDBResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/codestore/ncibi/projects/!svn/ver/326/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/model/g2m/Gene2MeSHDBResult.java
+END
+Gene2MeSHDB.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/codestore/ncibi/projects/!svn/ver/550/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/model/g2m/Gene2MeSHDB.java
+END
+Gene2MeSHPMID.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codestore/ncibi/projects/!svn/ver/356/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/model/g2m/Gene2MeSHPMID.java
+END
+Gene2MeSHPubs.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/codestore/ncibi/projects/!svn/ver/487/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/model/g2m/Gene2MeSHPubs.java
+END

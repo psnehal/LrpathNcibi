@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/codestore/ncibi/projects/!svn/ver/560/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/interaction
+END
+InteractionResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/codestore/ncibi/projects/!svn/ver/560/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/interaction/InteractionResource.java
+END
+GeneGeneInteractionResourceArgument.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/codestore/ncibi/projects/!svn/ver/402/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/interaction/GeneGeneInteractionResourceArgument.java
+END
+GeneGeneInteractionEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/codestore/ncibi/projects/!svn/ver/384/WebServices/ws-ncibi/trunk/src/main/java/org/ncibi/ws/resource/interaction/GeneGeneInteractionEncoder.java
+END
